@@ -1,0 +1,42 @@
+_repo: Minor-Tibetan-Texts-1-The-song-of-the-Eastern-Snow-mountain_67451
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Manen, Johan van
+    alias: Van Manen, Johan
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '54276'
+    url: http://www.gutenberg.org/2009/agents/54276
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Johan_van_Manen
+    - https://en.wikipedia.org/wiki/Johan_van_Manen
+description: ''
+gutenberg_issued: '2022-02-20'
+identifiers:
+  gutenberg: '67451'
+language:
+- bo
+- en
+pgterms:marc904: https://archive.org/details/minortibetantext01maneuoft/page/n3/mode/2up
+pgterms:marc905: 20210129145541manen
+pgterms:marc906: '1919'
+pgterms:marc907: IN
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: India :Asiatic Society,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Bibliotheca Indica: a collection of oriental works published by the
+  Asiatic Society of Bengal. New series, no. 1426'
+subjects:
+- !lcsh 'Buddhist literature, Tibetan'
+- !lcsh 'Prayer -- China -- Tibet Autonomous Region -- Buddhism'
+- !lcc 'PL'
+- !lcsh 'Tibetan language -- Texts'
+- !lcc 'BQ'
+- GITenberg
+title: 'Minor Tibetan Texts: 1. The song of the Eastern Snow-mountain'
+url: http://www.gutenberg.org/ebooks/67451
