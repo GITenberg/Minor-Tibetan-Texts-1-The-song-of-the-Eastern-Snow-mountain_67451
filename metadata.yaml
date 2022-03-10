@@ -1,5 +1,8 @@
 _repo: Minor-Tibetan-Texts-1-The-song-of-the-Eastern-Snow-mountain_67451
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67451-h/images/new-cover.jpg
 creator:
   editor:
     agent_name: Manen, Johan van
@@ -12,6 +15,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Johan_van_Manen
     - https://en.wikipedia.org/wiki/Johan_van_Manen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67451#Minor-Tibetan-Texts-1-The-song-of-the-Eastern-Snow-mountain
 gutenberg_issued: '2022-02-20'
 identifiers:
   gutenberg: '67451'
